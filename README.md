@@ -22,8 +22,7 @@ Task Manager is a simple yet functional CRUD (Create, Read, Update, Delete) API 
 ## Installation
 
 1. Clone this repository:
-   https://github.com/SaintsLuis/TaskManager-node-mongo-api.git
-
+   https://github.com/slietian/Task-Manager-API-Express-MongoDB-JWT-
 2. Install the dependencies:
    npm install
 
@@ -34,10 +33,4 @@ Task Manager is a simple yet functional CRUD (Create, Read, Update, Delete) API 
 4. Start the server:
    npm run dev
 
-## Author
 
-Luis M Santos
-
-## License
-
-This project is licensed under the ISC License.
